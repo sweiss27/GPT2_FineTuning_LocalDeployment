@@ -1,0 +1,16 @@
+[
+  {
+    "name": "lr_2e-4",
+    "learning_rate": 0.0002,
+    "eval_loss": 3.358577013015747,
+    "perplexity": 28.74825336901429,
+    "seconds": 278.73
+  },
+  {
+    "name": "lr_1e-4",
+    "learning_rate": 0.0001,
+    "eval_loss": 3.3724515438079834,
+    "perplexity": 29.14990179415013,
+    "seconds": 286.1
+  }
+]

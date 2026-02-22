@@ -1,0 +1,86 @@
+{
+  "avg_bleu": 0.004015177173907737,
+  "n": 10,
+  "samples": [
+    {
+      "i": 0,
+      "prompt": "[Intro: Method Man w/ sample] + (Sunny valentine). We got butter (8X). (The gun'll go the gun'll go....",
+      "reference_continuation": "The gun'll go...). [Raekwon]. Aiyo one thing for sure keep you of all. Keep a nice crib fly away keep to the point. Keep niggaz outta ya face who snakes. Keep bitches in they place keep the mac in a special place. Keep moving for papes keep cool keep doing what you doing. Keep it fly keep me in the crates. Cuz I will erase shit on the real note you'se a waste. It's right here for you I will",
+      "generated_full": "[Intro: Method Man w/ sample] + (Sunny valentine). We got butter (8X). (The gun'll go the gun'll go....) I have a little nigger. My kids get me drunk and make fun of them in front! Just think that they could kill you if someone's talking to ya on tha phone... Then just like so many times, people say \"How come nigga never called before?\" Well it ain't",
+      "generated_continuation": ") I have a little nigger. My kids get me drunk and make fun of them in front! Just think that they could kill you if someone's talking to ya on tha phone... Then just like so many times, people say \"How come nigga never called before?\" Well it ain't",
+      "bleu": 0.0036656009738764463
+    },
+    {
+      "i": 1,
+      "prompt": "[Sean Paul:]. Aye. It's Sean Paul 'long side. The mandem called Jay Sean. Fi di gal dem. Tellin'",
+      "reference_continuation": "'em again what we tell 'em. [Jay Sean:]. Pass me a drink to the left yeah. Said her name was Delilah. And I'm like \"you should come my way\". I already surrender. Damn girl that body's fire. You gon' remember my name. (She should give it up definite). You need it. I need it. We can jump in the deep end. I wanna get lost in your love. I just wanna be close to you. (Just wanna I just wanna).",
+      "generated_full": "[Sean Paul:]. Aye. It's Sean Paul 'long side. The mandem called Jay Sean. Fi di gal dem. Tellin' me how you feel [that I'm your brother], that they never let up...and tell in da past there ain't nobody to talk about it..if ya got nothing else, just do something good and if tha other shit isn\ufffdt what we want....oh come on baby - look at",
+      "generated_continuation": "me how you feel [that I'm your brother], that they never let up...and tell in da past there ain't nobody to talk about it..if ya got nothing else, just do something good and if tha other shit isn\ufffdt what we want....oh come on baby - look at",
+      "bleu": 0.006273902759210819
+    },
+    {
+      "i": 2,
+      "prompt": "Beauty finds refuge in herself. Lovers wrapped inside each others lies. Beauty is such a terrible thing. She",
+      "reference_continuation": "is suffering yet more than death. She is suffering. She sucks you deeper in. She is suffering. You exist within her shadow. Beauty she is scarred into man's soul. A flower attracting lust vice and sin. A vine that can strangle life from a tree. Carrion surrounding picking on leaves. She is suffering. She sucks you deeper in. She is suffering. You exist within her shadow. Beauty she poisons unfaithful all. Stifled her touch is leprous and pale. The less",
+      "generated_full": "Beauty finds refuge in herself. Lovers wrapped inside each others lies. Beauty is such a terrible thing. She's on the move.... Love isn't always just that sweet and hot.. And what she wants to be more than anything... What love does her have..... We've been living through this all day we talk about us together! Is there no way out?! But now i see you're here oh my",
+      "generated_continuation": "'s on the move.... Love isn't always just that sweet and hot.. And what she wants to be more than anything... What love does her have..... We've been living through this all day we talk about us together! Is there no way out?! But now i see you're here oh my",
+      "bleu": 0.00588610996424756
+    },
+    {
+      "i": 3,
+      "prompt": "You've changed your tune. many times since we've met. But I'll always recognize you. You are part of",
+      "reference_continuation": "me. I feel you whether in Jamaica or in the Angel city. You're such a gift to me. Uuuuh. Chorus. Hey you. I gotta tell you my long time friend. I think of all those years you saw me through tears. and the good times that we spend. Hey you. You're my constant companion. You always let me explain just what I'm saying. and we've just begun. Ooooh. I've got one wish for this music to be an uplift. And",
+      "generated_full": "You've changed your tune. many times since we've met. But I'll always recognize you. You are part of my life.. and that's why it feels so hard to stay awake when the sun is shining on me.. Every day keeps coming back\u2026everyday a new song springs up as if from memory\u2026. The feeling has just become stronger than ever before... It took us forever to make our way through this",
+      "generated_continuation": "my life.. and that's why it feels so hard to stay awake when the sun is shining on me.. Every day keeps coming back\u2026everyday a new song springs up as if from memory\u2026. The feeling has just become stronger than ever before... It took us forever to make our way through this",
+      "bleu": 0.0035606136421423118
+    },
+    {
+      "i": 4,
+      "prompt": "I got all these J's rolled up. And got all these drinks poured up. I bought all these",
+      "reference_continuation": "bottles up in this club. Came here with all of my dogs. But I'm tryna leave with you and your friends. You and your friends. Yeah tryna leave with you and your friends. You and your friends ball. I got all these J's rolled up. And got all these drinks poured up. I bought all these bottles up in this club. Came here with all of my dogs. But I'm tryna leave with you and your friends. You and your",
+      "generated_full": "I got all these J's rolled up. And got all these drinks poured up. I bought all these things so we could go back to my car and just enjoy the music.. But when it was about me... The shit hit her hard (the sound of a gunshot) you couldn't take your eyes off that bitch! So she turned into this monster with an awful grin on his face..... You wanna",
+      "generated_continuation": "things so we could go back to my car and just enjoy the music.. But when it was about me... The shit hit her hard (the sound of a gunshot) you couldn't take your eyes off that bitch! So she turned into this monster with an awful grin on his face..... You wanna",
+      "bleu": 0.0035942759772282125
+    },
+    {
+      "i": 5,
+      "prompt": "Look I'm standing naked before you. Don't you want more than my sex. I can scream as loud",
+      "reference_continuation": "as your last one. but I can't claim innocence. Oh god could it be the weather. Oh god why am I here. If love isn't forever. and it's not the weather. Hand me my leather. I could just pretend that you love me. The night would lose all sense of fear. but why do I need you to love me. when you can't hold what I hold dear. Oh god could it be the weather. Oh god why am I",
+      "generated_full": "Look I'm standing naked before you. Don't you want more than my sex. I can scream as loud like a rock 'n roll girl? don' wanna go to sleep tonight?! (chuckle). And it ain t time for me now ta die.. Now that we all have the power in our hands.(Chuckles). Let's kill each other on two legs till both of us are dead(",
+      "generated_continuation": "like a rock 'n roll girl? don' wanna go to sleep tonight?! (chuckle). And it ain t time for me now ta die.. Now that we all have the power in our hands.(Chuckles). Let's kill each other on two legs till both of us are dead(",
+      "bleu": 0.0031049268388789308
+    },
+    {
+      "i": 6,
+      "prompt": "This is our town this is Friday night. Dressed in our rags and our rage and our best.",
+      "reference_continuation": "Piercing eyes looking for something - anything anyone.. Stare across the floor as they begin to dance. Missing all the rhythms and the chosen right steps. And we laugh and we drink in our corner again. We're better than them. Divided we were born divided we live. Divided we fall divided we die. Still we tell ourselves over and over again. We're better than them. With our hunger and our hatred we all walk this town. With our fear and",
+      "generated_full": "This is our town this is Friday night. Dressed in our rags and our rage and our best. We don't need the drugs or that kind of shit to kill you yet just keep on being nasty with your friends from their little towns like Houston, San Antonio and Austin. I know we have been beaten but if it wasn' real some time ago would've never gotten off my back as soon they",
+      "generated_continuation": "We don't need the drugs or that kind of shit to kill you yet just keep on being nasty with your friends from their little towns like Houston, San Antonio and Austin. I know we have been beaten but if it wasn' real some time ago would've never gotten off my back as soon they",
+      "bleu": 0.0033027242427434112
+    },
+    {
+      "i": 7,
+      "prompt": "Yeah you really tried. But I was blind. to all the lies you told me oh. All the",
+      "reference_continuation": "shit you've done. You can't outrun the way you understand me. You acted like you bought me. at a bargain sale. You don't even care. You focused your frustration on a small detail. Blew it out of scale like my ponytail. Well if you don't want to see. the girl I want to be. Then why then why should I listen. If you don't want to do. the things I need from you. Goodbye goodbye. 'Cause I gave it away.",
+      "generated_full": "Yeah you really tried. But I was blind. to all the lies you told me oh. All the time that had passed my eyes opened wide just in case of a break through... You were right when everything looked so real from what's on TV every day...... It is because people who live out their lives lie about themselves they don't know anything and say whatever if it matters not knowing enough for",
+      "generated_continuation": "time that had passed my eyes opened wide just in case of a break through... You were right when everything looked so real from what's on TV every day...... It is because people who live out their lives lie about themselves they don't know anything and say whatever if it matters not knowing enough for",
+      "bleu": 0.0037526192467067687
+    },
+    {
+      "i": 8,
+      "prompt": "This may seem all too confusing. How I could walk away from something so rare. But you see",
+      "reference_continuation": "it all got too demanding yeah. And I just didn't care I just didn't care if I cared if I cared. Lately I've been left wanting but not wanting you. Attraction that once was is no longer there ooh. And it sucks to be taken for granted. When the veil is drawn and there's only air. I had to walk away. Give up something I love. For what I loved even more. And save my tears for you. Everything has",
+      "generated_full": "This may seem all too confusing. How I could walk away from something so rare. But you see me always smiling to myself like a dreamless boy, but who is actually in the wrong? Now that's where it gets really hard and no one knows how far ahead of us we've got.. This isn't going anywhere though... So what are my feelings if anyone tells them there was never anything",
+      "generated_continuation": "me always smiling to myself like a dreamless boy, but who is actually in the wrong? Now that's where it gets really hard and no one knows how far ahead of us we've got.. This isn't going anywhere though... So what are my feelings if anyone tells them there was never anything",
+      "bleu": 0.003826128358686837
+    },
+    {
+      "i": 9,
+      "prompt": "It's my father's voice dreaming of. Sailors sailing off in the morning. for the air-conditioned rooms. at the",
+      "reference_continuation": "top of the stairs. His jaw's been broken. his bandage is wrapped too tight. his fangs have been pulled. and i really want to see you tonight. There's Bourbon on the breath. of the singer you love so much. He takes all his words from the books. that you don't read anyway. His jaw's been broken. his bandage is wrapped too tight. My fangs have been pulled. and I really want to see you tonight. Someone ties a bow. in",
+      "generated_full": "It's my father's voice dreaming of. Sailors sailing off in the morning. for the air-conditioned rooms. at the gate to your house and when we return you'll come back here with some champagne all night long.\nYou know that I'm a real man too... what if there were only one thing from me? What would he think about us right now?! It'd be like being born into this world,",
+      "generated_continuation": "gate to your house and when we return you'll come back here with some champagne all night long.\nYou know that I'm a real man too... what if there were only one thing from me? What would he think about us right now?! It'd be like being born into this world,",
+      "bleu": 0.0031848697353560737
+    }
+  ]
+}
